@@ -1,7 +1,5 @@
 # belly-button-challenge
 
-# belly-button-challenge
-
 ### Introduction
 
 Using 'D3' package within the JavaScript libary to create interactive data visualisation . This makes it easy for the audience to see the 'dynamic' data more clearly. The JSON data provided at the given URL contains information about microbial samples taken from various individuals. Each sample is identified by an ID number, and the data for each sample includes an array of the top 10 OTUs (Operational Taxonomic Units) found in the sample, along with the corresponding sample values. 

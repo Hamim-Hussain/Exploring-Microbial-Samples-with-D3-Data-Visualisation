@@ -34,6 +34,8 @@ URL: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-
 
 * Use `otu_labels` as the hovertext for the chart.
 
+![](Images/hw01.png)
+
 3. Create a bubble chart that displays each sample.
 
 * Use `otu_ids` for the x values.
@@ -46,11 +48,17 @@ URL: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-
 
 * Use `otu_labels` for the text values.
 
+![](Images/bubble_chart.png)
+
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
+![](Images/hw03.png)
+
 6. Update all of the plots any time that a new sample is selected.
+Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+![](Images/hw02.png)
 
 ## Advanced Challenge Assignment (Optional)
 
@@ -61,6 +69,8 @@ The following task is advanced and therefore optional.
 * You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 * Update the chart whenever a new sample is selected.
+
+![](Images/gauge.png)
 
 ## Deployment
 

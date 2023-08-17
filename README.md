@@ -1,5 +1,5 @@
 # belly-button-challenge
-
+<img src="images/microbs.JPG" width="1000" height="491">
 ### Introduction
 
 D3 is a JavaScript library used to create interactive data visualizations, which can help the audience better understand dynamic data. The JSON data available at the specified URL provides information about microbial samples collected from different individuals. Each sample is identified by a unique ID number, and its data includes an array of the top 10 Operational Taxonomic Units (OTUs) found in the sample, along with their corresponding values. 

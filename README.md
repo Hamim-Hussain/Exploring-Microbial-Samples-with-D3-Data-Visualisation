@@ -1,4 +1,4 @@
-# Exploring Microbial Samples with D3 Data Visualization
+# Exploring Microbial Samples with D3 Data Visualisation
 <img src="Images/microbs.JPG" width="1000" height="491">
 
 ## Introduction

@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Exploring Microbial Samples with D3 Data Visualization
 <img src="Images/microbs.JPG" width="1000" height="491">
 
 ## Introduction
